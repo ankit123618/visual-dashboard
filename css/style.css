@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    padding:0%;
+    color:rgb(30,30,30);
+
+}
+.header{
+   
+    color:rgb(32, 32, 32);
+    border: 3px solid rgb(175, 175, 175);
+    letter-spacing: 3px;
+    margin-top: 3px;
+}
+#data{
+    width: 70%;
+    /* background-color: blue; */
+    position:absolute;
+    right:0%;
+    border: solid 3px rgb(177, 177, 177);
+    margin-bottom: 5px;
+}
+#side-bar{
+    width: 30%;
+    /* background-color: blue; */
+    position:absolute;
+    left:0%;
+    border: dotted 3px rgb(177, 177, 177);
+}
